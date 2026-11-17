@@ -3,11 +3,11 @@ vscode_black="#2a2d2e"
 vscode_blue="#61afef"
 vscode_yellow="#e5c07b"
 vscode_red="#e06c75"
-vscode_white="#9d9d9d"
+vscode_white="#b0b0b0"
 white="#cccccc"
 vscode_green="#98c379"
 vscode_visual_grey="#454545"
-vscode_comment_grey="#9d9d9d"
+vscode_comment_grey="#b0b0b0"
 
 get() {
     local option=$1
