@@ -1,13 +1,13 @@
 #!/bin/bash
-vscode_black="#2c323c"
-vscode_blue="#4fc1ff"
-vscode_yellow="#D7BA7D"
-vscode_red="#D16969"
-vscode_white="#aab2bf"
+vscode_black="#2a2d2e"
+vscode_blue="#61afef"
+vscode_yellow="#e5c07b"
+vscode_red="#e06c75"
+vscode_white="#9d9d9d"
 white="#cccccc"
-vscode_green="#89d185"
-vscode_visual_grey="#3e4452"
-vscode_comment_grey="#5c6370"
+vscode_green="#98c379"
+vscode_visual_grey="#454545"
+vscode_comment_grey="#9d9d9d"
 
 get() {
     local option=$1
